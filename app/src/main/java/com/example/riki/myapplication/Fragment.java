@@ -6,4 +6,8 @@ asfaskdlf
  */
 public class Fragment {
 This is code in newBranch hehe
+
+Here is Master new FIXED :D We have not connect with the newBranch yet
+
+Last fixed by Brand :D ^^ Need Master to merge this one :D 
 }
